@@ -7,3 +7,7 @@ A trick to insert image into Github
 
 #### paste it into the issue box
 ![image](https://user-images.githubusercontent.com/46899273/52930311-90e48e80-330d-11e9-8b88-05a163919f7c.png)
+
+
+#### copy the link generated in the issue box and paste it into README.md
+![image](https://user-images.githubusercontent.com/46899273/52930395-def99200-330d-11e9-8664-3374625f8c57.png)
